@@ -1,78 +1,119 @@
 <div align="center">
 
-# João Pedro Souza
+# João Pedro de Souza
 
-### Senior Full Stack Software Engineer
+### Senior Full Stack Software Engineer · AI Engineering
 
-**Flutter & Mobile · Node.js · Python · .NET · System Design · APIs & Microservices**
+**Mobile · Web · Backend · Desktop · System Design · APIs · Microservices**
 
-Building scalable mobile, web, and backend products with strong architecture, thoughtful engineering, and a focus on real-world impact.
+I design and deliver reliable products end to end, combining strong software architecture with pragmatic execution and AI-assisted engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-souza-0310/)
 [![Repositories](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaopedrosouza0310?tab=repositories)
 
+📍 Brazil · 🌎 Open to international opportunities · 🇬🇧 Fluent English
+
 </div>
 
-## About me
+## Professional summary
 
-I'm a Senior Software Engineer with **9+ years of experience** building and scaling products across fintech, SaaS, event technology, e-commerce, and enterprise environments.
+Senior Full Stack Software Engineer with **9+ years of experience** designing and delivering mobile, web, backend, and desktop products across **fintech, SaaS, event technology, e-commerce, automotive, and enterprise environments**.
 
-My core specialization is **Flutter and mobile engineering**, but I work end to end across frontend, backend, APIs, data, architecture, testing, and production delivery. I lead technical initiatives, own features from discovery to release, review code, mentor engineers, and collaborate closely with Product, Design, and QA.
+I work end to end across **.NET/C#, Node.js, Python, Flutter, Angular, TypeScript, SQL, and NoSQL**, with strengths in system design, REST APIs, microservices, software architecture, security, automated testing, CI/CD, and production operations.
 
-I have worked with international teams in both startups and enterprise companies. I'm also a published **Flutter instructor on Udemy**, helping nearly **3,300 students** advance their mobile development skills.
+I lead technical initiatives and own features from discovery to release, partnering with Product, Design, QA, Security, and Engineering. I also apply LLMs, AI agents, and multi-agent workflows to architecture, implementation, debugging, refactoring, testing, migration planning, and technical documentation with human-in-the-loop validation.
 
-## Professional highlights
+## At a glance
 
 <table>
   <tr>
     <td align="center" width="25%"><strong>9+ years</strong><br/>Software engineering</td>
-    <td align="center" width="25%"><strong>3,300 students</strong><br/>Flutter education</td>
-    <td align="center" width="25%"><strong>End to end</strong><br/>Mobile, web & backend</td>
-    <td align="center" width="25%"><strong>International</strong><br/>Teams & products</td>
+    <td align="center" width="25%"><strong>3,000+ students</strong><br/>Flutter education</td>
+    <td align="center" width="25%"><strong>End-to-end</strong><br/>Product ownership</td>
+    <td align="center" width="25%"><strong>International</strong><br/>Remote teams</td>
   </tr>
 </table>
 
-## Core expertise
+## Technical expertise
 
-<div align="center">
+### Backend and APIs
 
-### Mobile
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-6C63FF?style=flat-square&logo=fastapi&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
+ASP.NET Core · Entity Framework · Microservices · JWT/OAuth · Authentication · API contracts
 
-### Backend & APIs
+### Frontend and mobile
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
 
-### Web, data & delivery
+JavaScript · Ionic · Responsive web and mobile UI · Native iOS and Android integrations
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### Architecture, data, and delivery
 
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Engineering focus
+System Design · Clean Architecture · SOLID · DDD · MVC/MVVM · TDD · CI/CD · SQL Server · SQLite · GitLab · AWS CodeCommit
 
-- **System design:** scalable architectures, microservices, API contracts, observability, and performance
-- **Software architecture:** Clean Architecture, SOLID, separation of concerns, and domain modeling
-- **Product engineering:** ownership from discovery and technical design through testing and release
-- **Quality:** automated tests, code review, CI/CD, refactoring, and maintainable documentation
-- **Technical leadership:** mentoring, cross-functional collaboration, and engineering decision-making
-- **AI-assisted development:** responsible use of Copilot, Claude, ChatGPT, and Cursor with professional review
+## AI engineering and agentic development
 
-## What I'm building
+- Apply **OpenAI Codex, ChatGPT, Claude, Cursor, GitHub Copilot, and Llama-family models** throughout software architecture and delivery workflows
+- Structure agents and sub-agents for task decomposition, parallel investigation, implementation, review, and result consolidation
+- Create Architecture Decision Records and technical documentation for integrations, constraints, security considerations, and long-term evolution
+- Use review checkpoints, automated testing, code review, and professional judgment to validate AI-assisted outputs before production use
 
-I'm currently exploring architecture and system design through a **multi-tenant platform for the restaurant and food-delivery industry**. The project covers tenant isolation, role-based access, restaurant onboarding, dynamic themes, localization, extensible API contracts, operational tooling, and separate customer, owner, and administration experiences.
+## Professional experience
+
+### Senior Full Stack Software Engineer · Keeper EWA
+
+`Mar 2023 - Present` · New York, USA · Remote
+
+- Deliver production features across Flutter applications and .NET/C# backend services for a large-scale fintech platform
+- Design and integrate REST APIs, authentication, financial workflows, push notifications, and enterprise capabilities
+- Own features from technical design through testing, CI/CD, release, and production support
+- Improve maintainability, security, and scalability through Clean Architecture, SOLID, TDD, code review, and internal tooling
+
+### Senior Full Stack Software Engineer · Evite via Jobsity
+
+`Jul 2024 - May 2026` · United States · Remote
+
+- Delivered mobile, backend, and platform solutions for a large-scale event technology product with international teams
+- Led Flutter/Dart development and architecture improvements for maintainability, scalability, stability, and performance
+- Built backend services, APIs, authentication, cloud-connected features, and native SwiftUI/Kotlin integrations
+
+<details>
+<summary><strong>Earlier experience</strong></summary>
+
+<br/>
+
+- **Senior Frontend and Full Stack Engineer · TIVIT** - Enterprise fintech, digital wallet, and investment features
+- **Application Development Analyst · Accenture Brazil** - Mobile systems for Stellantis fleet and vehicle-rental operations
+- **Full Stack Mobile Software Engineer · RTEC Aplicativos** - Flutter products across vending, education, and media
+- **Founder and Full Stack Software Engineer · JPS Tech** - Mobile, desktop, web, APIs, databases, and the R.E.S.T. restaurant platform
+
+</details>
+
+## Teaching, education, and certifications
+
+- **Published Flutter Instructor · Udemy** - Practical, production-oriented Flutter and full stack engineering for 3,000+ students
+- **BSc in Information Systems** - Centro Universitário do Rio São Francisco - UniRios, 2018
+- **Growth Intelligence: Growth Strategy with Data, AI and Experimentation** - University of São Paulo (USP/ESALQ), 2026
+- **Flutter** - TestDome, 2026
+- **Design to Code: Using AI to Build Faster** - LinkedIn Learning, 2024
 
 ## Selected projects
 
@@ -97,10 +138,10 @@ I'm currently exploring architecture and system design through a **multi-tenant 
 
 <div align="center">
 
-### Open to meaningful engineering challenges
+### Let's build reliable systems that scale
 
-Senior Software Engineer · Mobile Engineer · Full-Stack Engineer
+Open to conversations about **Senior Software Engineer, Mobile Engineer, Full Stack Engineer, and AI Engineering** opportunities.
 
-[![Let's connect](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-souza-0310/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-souza-0310/)
 
 </div>
